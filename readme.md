@@ -13,13 +13,13 @@ Aim of this project is to learn how to write an application using object-oriente
 
 ## How to View This Website
 
-To use this project you must have python installed
+To use this project you must have python installed:
 
 1. Download the code or clone the repository
 2. Open entertainment_center.py
 3. Enjoy the trailers of my favourite movies.
 
-If you don't have python installed
+If you don't have python installed:
 
 1. Download the code or clone the repository
 2. Open fresh_tomatoes.html
